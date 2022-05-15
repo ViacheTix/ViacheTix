@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViacheTix
-- 👀 I’m interested in Science, Biotechnology, Literature and as you can see in coding.
+- 👀 I’m interested in Science, Biotechnology, Literature and Coding.
 - 🌱 I’m currently learning in programming sphere: Python and Web development.
 - 💞️ I’m looking to collaborate on education in the above mentioned things ☝️ 
 - 📫 How to reach me hinrog843@mail.ru
